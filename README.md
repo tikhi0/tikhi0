@@ -8,9 +8,9 @@ A simple programmer trying to do something.
 
 <div style="display: flex; justify-content: space-around;">
   <a href="https://github.com/tikhi0/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=tikhi0&show_icons=true&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tikhi0&show_icons=true&theme=dark" alt="tikhi0"/>
   </a>
   <a href="https://github.com/tikhi0/top-langs">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tikhi0&layout=pie&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tikhi0&layout=pie&theme=dark&locale=en" alt="tikhi0"/>
   </a>
 </div>
