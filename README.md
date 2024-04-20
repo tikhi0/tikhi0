@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi, I'm tikhi 👋
+----------------------------
+A simple programmer trying to do something.
 
-<!--
-**tikhi0/tikhi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 GitHub Stats:
+----------------------------
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,threejs,python,cpp)](https://skillicons.dev)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; justify-content: space-around;">
+  <a href="https://github.com/tikhi0/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=tikhi0&show_icons=true&theme=dark" />
+  </a>
+  <a href="https://github.com/tikhi0/top-langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tikhi0&layout=pie&theme=dark" />
+  </a>
+</div>
